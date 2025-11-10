@@ -1,0 +1,50 @@
+organization_identity_record.md
+# ⚖️ JusticeTree AI™ — Organizational Identity Record
+
+**Founder:** Teresa Villa  
+**Primary Domain:** [https://www.justicetree.net](https://www.justicetree.net)  
+**Contact Email:** info@justicetree.net  
+**Core Cloud Account:** teresavilla397@gmail.com  
+**GitHub Account:** [teresavilla397-rgb](https://github.com/teresavilla397-rgb)  
+**Replit Environment:** [justice-ai-terevia864.replit.app](https://justice-ai-terevia864.replit.app)  
+
+---
+
+## 🌿 Mission Statement
+JusticeTree AI™ builds survivor-led, trauma-informed, and ethics-by-design technology that strengthens transparency and accountability across judicial and agency systems.  
+Our ecosystem integrates accessible data, bilingual tools, and ethical automation to ensure fairness, truth, and human dignity in every decision pipeline.
+
+---
+
+## 🧩 System Ecosystem
+
+| Branch | Purpose | Platform |
+|---------|----------|-----------|
+| **Justice Engine™** | Case intake, validator, and analytics for court, benefits, and housing data | Firebase + Firestore |
+| **BitOfJustice™** | Secure client archive and notarized documentation hub | Firebase + GitHub |
+| **Notary of Justice™** | Legal verification + e-sign workflow for public affidavits | Swift + Firebase Storage |
+| **CannaRights™** | Compliance and civil-rights tracking for cannabis law | Firebase Subdomain |
+| **Ethics & Trust Center** | Governance, transparency, and public integrity reporting | GitHub + B12 |
+
+---
+
+## ☁️ Cloud & Platform Infrastructure
+
+| Platform | Account / Project ID | Notes |
+|-----------|----------------------|-------|
+| **Google Cloud / Firebase** | `justiceai-app-82142447` | Primary hosting + analytics |
+| **GitHub** | `justiceai-trust-center` | Public ethics + transparency hub |
+| **Replit** | `terevia864@icloud.com` | Frontend prototyping + dev builds |
+| **Apple Developer (Mac13)** | `teresavilla397@icloud.com` | Native app testing & notarization |
+| **IONOS Domains** | `justicetree.net`, `justicetree.org`, `bitofjustice.com` | Domain management + SSL |
+
+---
+
+## 🧠 Chain of Custody Statement
+All current code, data, and documentation within the JusticeTree ecosystem are authored, maintained, and secured under the direct custody of **Teresa Villa**, Founder of JusticeTree AI™ and Justice Engine™.  
+All legacy or secondary accounts remain archived and disconnected from production systems.
+
+---
+
+**Timestamp:** Automatically verified by GitHub Commit  
+**License:** Ethical Use & Non-Exploitation Clause — JusticeTree AI™ 2025
