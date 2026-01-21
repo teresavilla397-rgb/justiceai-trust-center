@@ -1,4 +1,4 @@
-# 🛡️ JusticeAI Trust Center
+
 
 **Welcome to the Official JusticeAI Trust Center, a core module of the JusticeTree AI™ ecosystem.**  
 This repository functions as the system of record for public governance, authorship verification, legal protocol evolution, and validator module design.
